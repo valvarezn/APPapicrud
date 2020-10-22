@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Np7r2NZT187I0FhDDHQ1tBQZgBpbyPDpAv1eK5acGNsd8jYHoI/ezjUFi8j6froFVvOljuXKhsucMss0QO53hQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SIN MANOS\\source\\repos\\Apiapp\\Apiapp\\Apiapp\\Apiapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SIN MANOS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SIN MANOS\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\SIN MANOS\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\SIN MANOS\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512",
+    "C:\\Users\\SIN MANOS\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

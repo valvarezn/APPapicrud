@@ -1,0 +1,16 @@
+C:\Users\SIN MANOS\source\repos\Apiapp\Apiapp\Apiapp\bin\Debug\netstandard2.0\Apiapp.deps.json
+C:\Users\SIN MANOS\source\repos\Apiapp\Apiapp\Apiapp\bin\Debug\netstandard2.0\Apiapp.dll
+C:\Users\SIN MANOS\source\repos\Apiapp\Apiapp\Apiapp\obj\Debug\netstandard2.0\Apiapp.csprojAssemblyReference.cache
+C:\Users\SIN MANOS\source\repos\Apiapp\Apiapp\Apiapp\obj\Debug\netstandard2.0\Apiapp.AssemblyInfoInputs.cache
+C:\Users\SIN MANOS\source\repos\Apiapp\Apiapp\Apiapp\obj\Debug\netstandard2.0\Apiapp.AssemblyInfo.cs
+C:\Users\SIN MANOS\source\repos\Apiapp\Apiapp\Apiapp\bin\Debug\netstandard2.0\ref\Apiapp.dll
+C:\Users\SIN MANOS\source\repos\Apiapp\Apiapp\Apiapp\bin\Debug\netstandard2.0\Apiapp.pdb
+C:\Users\SIN MANOS\source\repos\Apiapp\Apiapp\Apiapp\obj\Debug\netstandard2.0\Apiapp.csproj.CoreCompileInputs.cache
+C:\Users\SIN MANOS\source\repos\Apiapp\Apiapp\Apiapp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SIN MANOS\source\repos\Apiapp\Apiapp\Apiapp\obj\Debug\netstandard2.0\Apiapp.dll
+C:\Users\SIN MANOS\source\repos\Apiapp\Apiapp\Apiapp\obj\Debug\netstandard2.0\ref\Apiapp.dll
+C:\Users\SIN MANOS\source\repos\Apiapp\Apiapp\Apiapp\obj\Debug\netstandard2.0\Apiapp.pdb
+C:\Users\SIN MANOS\source\repos\Apiapp\Apiapp\Apiapp\obj\Debug\netstandard2.0\Views\AddUserPage.xaml.g.cs
+C:\Users\SIN MANOS\source\repos\Apiapp\Apiapp\Apiapp\obj\Debug\netstandard2.0\Views\App.xaml.g.cs
+C:\Users\SIN MANOS\source\repos\Apiapp\Apiapp\Apiapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\SIN MANOS\source\repos\Apiapp\Apiapp\Apiapp\obj\Debug\netstandard2.0\Views\UserPage.xaml.g.cs
